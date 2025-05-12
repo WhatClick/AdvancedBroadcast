@@ -5,6 +5,7 @@ api: 5.0.0
 main: AdvancedBroadcast\Main
 
 author: WhatClick
+website: https://github.com/WhatClick/AdvancedBroadcast
 
 description: Plugin avanzado de mensajes automáticos y broadcast.
 
