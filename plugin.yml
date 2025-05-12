@@ -1,0 +1,21 @@
+name: AdvancedBroadcast
+
+version: 0.2.1
+api: 5.0.0
+main: AdvancedBroadcast\Main
+
+author: WhatClick
+
+description: Plugin avanzado de mensajes automáticos y broadcast.
+
+commands:
+  broadcast:
+    description: Envía un mensaje a todos los jugadores.
+    usage: "/broadcast <mensaje>"
+    permission: advancedbroadcast.command.broadcast
+
+permissions:
+  advancedbroadcast.command.broadcast:
+    default: op
+  advancedbroadcast.toggle:
+    default: true
