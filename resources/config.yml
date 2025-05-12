@@ -1,0 +1,6 @@
+messages:
+  - "&a¡Bienvenido al servidor! Hay &b{online} &ajugadores conectados."
+  - "&eRecuerda visitar nuestra web para más información."
+  - "&bJugador destacado: &e{player}"
+interval: 300
+enabled: true
